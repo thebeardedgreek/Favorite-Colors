@@ -1,0 +1,32 @@
+body{
+    background-image: url("img/background.jpg");
+}
+
+.content-wrapper{
+    background-color: rgba(0, 0, 0, 0.5);
+    padding: 16px;
+    border: 2px solid white;
+}
+
+.app-section{
+    display: flex;
+    justify-content: space-evenly;
+    padding: 20px;
+    margin: 20px;
+    align-items: stretch;
+    color: white;
+    font-size: 25px;
+}
+
+.nav-links{
+    text-decoration: none;
+    color: white;
+}
+
+.m1{
+    margin-top: 150px;
+}
+
+.m2{
+    margin-left: 50%;
+}
